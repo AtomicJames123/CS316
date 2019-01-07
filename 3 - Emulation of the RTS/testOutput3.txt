@@ -1,0 +1,456 @@
+---------------------------
+Total number of function calls so far:10
+Maximum size of stack so far:9
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfact n = 1 t = 0 returnVal = 1
+ARfact n = 2 t = 0 returnVal = 0
+ARfact n = 3 t = 0 returnVal = 0
+ARfact n = 4 t = 0 returnVal = 0
+ARfact n = 5 t = 0 returnVal = 0
+ARfact n = 6 t = 0 returnVal = 0
+ARfact n = 7 t = 0 returnVal = 0
+ARfact n = 8 t = 0 returnVal = 0
+ARfact n = 9 t = 0 returnVal = 0
+ARfactOrFib n = 10 t = 3628800 returnVal = 3628800
+ARmixFactFib n = 10 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:9
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 5 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 6 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 7 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 8 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:10
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:11
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:13
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:14
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:17
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 2 t2 = 1 returnVal = 3
+---------------------------
+Total number of function calls so far:18
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:19
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:23
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 3 t2 = 2 returnVal = 5
+---------------------------
+Total number of function calls so far:24
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:25
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:27
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:28
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:33
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 5 t1 = 5 t2 = 3 returnVal = 8
+---------------------------
+Total number of function calls so far:34
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:35
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:37
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:38
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:41
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 2 t2 = 1 returnVal = 3
+---------------------------
+Total number of function calls so far:42
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:43
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:49
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 5 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 6 t1 = 8 t2 = 5 returnVal = 13
+---------------------------
+Total number of function calls so far:50
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:51
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:53
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:54
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:57
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 2 t2 = 1 returnVal = 3
+---------------------------
+Total number of function calls so far:58
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:59
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:63
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 3 t2 = 2 returnVal = 5
+---------------------------
+Total number of function calls so far:64
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:65
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:67
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:68
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:75
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 5 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 6 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 7 t1 = 13 t2 = 8 returnVal = 21
+---------------------------
+Total number of function calls so far:76
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:77
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:79
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:80
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:83
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 2 t2 = 1 returnVal = 3
+---------------------------
+Total number of function calls so far:84
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:85
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:89
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 3 t2 = 2 returnVal = 5
+---------------------------
+Total number of function calls so far:90
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:91
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:93
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:94
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:99
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 4 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 5 t1 = 5 t2 = 3 returnVal = 8
+---------------------------
+Total number of function calls so far:100
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:101
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+---------------------------
+Total number of function calls so far:103
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 1 t2 = 1 returnVal = 2
+---------------------------
+Total number of function calls so far:104
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:107
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 0 t2 = 0 returnVal = 1
+ARfib n = 2 t1 = 0 t2 = 0 returnVal = 0
+ARfib n = 3 t1 = 2 t2 = 1 returnVal = 3
+---------------------------
+Total number of function calls so far:108
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 0 t1 = 0 t2 = 0 returnVal = 0
+---------------------------
+Total number of function calls so far:109
+Maximum size of stack so far:8
+
+The contents of the runtime stack will be displayed from top to bottom: 
+
+ARfib n = 1 t1 = 1 t2 = 0 returnVal = 1
+ARmixFactFib n = 10 t1 = 3628800 t2 = 34 returnVal = 3628834
