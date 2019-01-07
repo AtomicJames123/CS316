@@ -1,0 +1,20 @@
+Total of 21 Obj objects have been constructed.
+
+5 objects of class Laptop
+[1:1001,4:1002,5:d002,7:1003,10:1004]
+
+4 objects of class Smartphone
+[0:s001,3:s002,6:s003,9:s004]
+
+3 objects of class Van
+[14:va001,17:va002,20:va003]
+
+3 objects of class Coupe
+[13:co001,16:co002,19:co003]
+
+3 objects of class Sedan
+[12:se001,15:se002,18:se003]
+
+3 objects of class Desktop
+[2:d001,8:d003,11:d004]
+
