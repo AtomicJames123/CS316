@@ -1,0 +1,189 @@
+Total of 27 Obj objects have been constructed.
+
+5 objects of class Laptop
+[2:false:l001,5:false:1002,6:false:d002,8:false:1003,12:false:1004]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[2:false:l001,5:false:1002,6:false:d002,8:false:1003,12:false:1004]
+5 objects unvisited
+---------------------------------------------------------
+
+4 objects of class Smartphone
+[1:false:s001,4:false:s002,7:false:s003,11:false:s004]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[1:false:s001,4:false:s002,7:false:s003,11:false:s004]
+4 objects unvisited
+---------------------------------------------------------
+
+3 objects of class EmptyBST
+[24:false,26:false,27:false]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[24:false,26:false,27:false]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Van
+[17:false:va001,21:false:va002,25:false:va003]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[17:false:va001,21:false:va002,25:false:va003]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Coupe
+[15:false:co001,20:false:co002,23:false:co003]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[15:false:co001,20:false:co002,23:false:co003]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Sedan
+[14:false:se001,19:false:se002,22:false:se003]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[14:false:se001,19:false:se002,22:false:se003]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class NonEmptyBST
+[9:false,16:false,18:false]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[9:false,16:false,18:false]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Desktop
+[3:false:d001,10:false:d003,13:false:d004]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[3:false:d001,10:false:d003,13:false:d004]
+3 objects unvisited
+---------------------------------------------------------
+
+Traversing the PC BST
+---------------------------------------------------------
+BST traversal has started ...
+
+Desktop:13:true:d004
+Laptop:12:true:1004
+Smartphone:4:true:s002
+
+Number of Objects Visited: 3
+---------------------------------------------------------
+
+Traversing the Car BST
+---------------------------------------------------------
+BST traversal has started ...
+
+Coupe:23:true:co003
+Coupe:20:true:co002
+Sedan:22:true:se003
+
+Number of Objects Visited: 3
+---------------------------------------------------------
+
+Traversing the Car Graph
+---------------------------------------------------------
+---------------------------------------------------------
+Total of 27 Obj objects have been constructed.
+
+5 objects of class Laptop
+[2:false:l001,5:false:1002,6:false:d002,8:false:1003,12:true:1004]
+list of visited objects:
+[12:true:1004]
+1 objects visited
+list of unvisited objects:
+[2:false:l001,5:false:1002,6:false:d002,8:false:1003,]
+4 objects unvisited
+---------------------------------------------------------
+
+4 objects of class Smartphone
+[1:false:s001,4:true:s002,7:false:s003,11:false:s004]
+list of visited objects:
+[4:true:s002,]
+1 objects visited
+list of unvisited objects:
+[1:false:s001,7:false:s003,11:false:s004]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class EmptyBST
+[24:false,26:false,27:false]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[24:false,26:false,27:false]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Van
+[17:false:va001,21:false:va002,25:false:va003]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[17:false:va001,21:false:va002,25:false:va003]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Coupe
+[15:false:co001,20:true:co002,23:true:co003]
+list of visited objects:
+[20:true:co002,23:true:co003]
+2 objects visited
+list of unvisited objects:
+[15:false:co001,]
+1 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Sedan
+[14:false:se001,19:false:se002,22:true:se003]
+list of visited objects:
+[22:true:se003]
+1 objects visited
+list of unvisited objects:
+[14:false:se001,19:false:se002,]
+2 objects unvisited
+---------------------------------------------------------
+
+3 objects of class NonEmptyBST
+[9:false,16:false,18:false]
+list of visited objects:
+[]
+0 objects visited
+list of unvisited objects:
+[9:false,16:false,18:false]
+3 objects unvisited
+---------------------------------------------------------
+
+3 objects of class Desktop
+[3:false:d001,10:false:d003,13:true:d004]
+list of visited objects:
+[13:true:d004]
+1 objects visited
+list of unvisited objects:
+[3:false:d001,10:false:d003,]
+2 objects unvisited
+---------------------------------------------------------
+
